@@ -15,4 +15,4 @@ This repository documents my learning journey in Python programming and machine 
 - `03_ML_Foundations/` basic models with scikit-learn
 - `04_AI_Auditing_Tools/` explainability, fairness libraries
 - `05_Projects/` end-to-end case studies
-- `reflections/` weekly learning notes
+- `06_reflections/` weekly learning notes
